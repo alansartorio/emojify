@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="emojipasta",
+    name="emojify",
     version="1.0",
     author="Alan Sartorio",
     author_email="alan42ga@hotmail.com",
