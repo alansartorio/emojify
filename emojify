@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+
+import emojipasta
+
+if __name__ == "__main__":
+    emojipasta.main()

@@ -1,0 +1,1 @@
+Code modified from https://github.com/musca1997/emojipasta-bot/
