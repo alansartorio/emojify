@@ -4,5 +4,6 @@ def main():
 
     gen = EmojipastaGenerator.of_default_mappings()
 
-    out = gen.generate_emojipasta(sys.stdin.read())
-    print(out)
+    input = sys.stdin.read()
+    out = gen.generate_emojipasta(input)
+    print(out, end='')
